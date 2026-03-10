@@ -115,6 +115,6 @@ This portfolio will continue evolving with:
 
 ---
 
-# 📄 License
+# 📄
 
 This project is created for personal portfolio and learning purposes.
